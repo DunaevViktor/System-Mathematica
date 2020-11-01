@@ -1,0 +1,615 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     22807,        606]
+NotebookOptionsPosition[     22215,        581]
+NotebookOutlinePosition[     22742,        603]
+CellTagsIndexPosition[     22664,        598]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ TogglerBox[1, {1->
+  OverlayBox[{
+   TagBox[GridBox[{
+      {
+       GraphicsBox[RasterBox[CompressedData["
+1:eJxTTMoPSmNiYGAo5gASQYnljkVFiZXBLECOU2VJahIzkCEFxAJADBL8//8/
+Qfzo0SP2GzduCF29elXs/Pnz0sgYn747d+5wA9VoArE/EB8B4uPoGJu+Fy9e
+MF+4cEENKB8AxBeB+AMQ/wXif+gYi1tBdvoB8QUg/ghV9x8XRtb7/PlzFqje
+t1D7cOrDpv/ixYvqUHuJ0ousHxpWAVA3E6UXWT80nC8S8i82/Q8ePOAgx26Y
+/uvXrwsD2UdJ8Tey/kuXLolD0wNJbofpB6YVSUr0n4ek5QHTT6n7KQ0/SuOP
+0vRDafqlRv6BxgPZ+Ret/HhHrBl4yi9QWHwiFB7Yyk+QO6B+CTxPYvmJjG/f
+vs17nozyG1f9cR6t7gBhAPeiQ4A=
+         "], {{0, 26}, {16, 0}}, {0, 255},
+         ColorFunction->RGBColor],
+        BaseStyle->"ImageGraphics",
+        ImageSize->Magnification[1],
+        ImageSizeRaw->{16, 26},
+        PlotRange->{{0, 16}, {0, 26}}], 
+       GraphicsBox[RasterBox[CompressedData["
+1:eJzt2d9OVFcUB2DSNmkfQRFEiRQ1gCK1vW4fwT6BJu1tE9uk8fUUERE9aECC
+qLGYEmKkErWxtont2mGdcDLVOpNgZijfJB9hzp+99j6zb9b5Hb3ww7nvP+rr
+6/vxs/hz7vzPX1+8eP7St5/El28u/fTdhY/jn/6w8GlfXzlYVdWhDgyEwXT4
+HQYbBho6qQMAAOxt/Q0HWxxo0TzX3xij7juGwpFwNAyHY2EkfB6OhxPhZBgL
+42EinAqnw2SYSl+Es+HL9FWb6uvP5hj1eJNZ41TWHM85nMw5Hc85juSch3MN
+R3JNdf/UfGbtPqf6WdW6/XsDAADsV7vd/7b2vqPV2/veuuc9k6Za1Mfr3vVt
+feto9e+eVb9KL2tmz81M+n25dadZ9bU2zYXbYSmshNXwoOF+uJfn7obFcKfa
+/twMN8L1MNtBTQAAYO+ZSVfTdLqSLreoj0/n9eXe0jeUHmQ+3AoL1XZ/UfqR
+5Wq77yg9yMPwS3gcfg0b4Ul4Gn4LW+F5eBl+D6/CH+F1+DP99Q71+dd5z6sc
+42WOuZU1nmbNjZzD45zTw5zjSs55KdewkGuazzXONp5Xu8+pflb185rpgd8d
+AABgv/kQ/W/J4krGVvrIkruVDO5RWAvr1U7fuxmeVTt9b/Ei1d+38prNaqdv
+Xc+xHuXY97LWYtbWr9Jryj4sGXPJmkvmXD7l/UrZsyWTLu9dyj4u72Ca2fVq
+nivvY8renuug5ps2/b2L2q0JAADwX3azT/kQuv18AAAA2Pv0rOxn3djz3X6f
+BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAADsHW/a1I2aAAAAAAAAsJ91OyOEburGnr/W
+prlwOyyFlbAaHjTcD/fy3N2wGO5U25+b4Ua4HmY7qAkAAAAAAAC9aCZdTdPp
+Srrcoj4+ndeXe0tuVjK4+XCr2s7iSsa2XG3nbiWDexTWwnrYCE/CZngWtsLz
+9CLV37fyms28ZyPHWMsxH2SN5ax5O+cwn3Oabayv3XXVa6vXN9MDvxN7W9mH
+JWMuWXPJnMunZNBlz5ZMumTTZR+XrLqZXa/muZJtl70910HNQx0YCIPp8DsM
+Ngw0dFIHAAAAAAAAel1/w8EWB1o0z/U3xqhzt6FwNAyHY2EkjIYT4WQYC+Nh
+IpwOk+FMmmpRH5/Mayfy3rEc60SOPZK1hrP2ULWT9zXX2O666rXVuv378P/S
+zJ6bmfT7cuuOsup/AFmW9vs=
+         "], {{0, 26}, {2000, 0}}, {0, 255},
+         ColorFunction->RGBColor],
+        BaseStyle->"ImageGraphics",
+        ImageSize->Magnification[1],
+        ImageSizeRaw->{2000, 26},
+        PlotRange->{{0, 2000}, {0, 26}}], 
+       GraphicsBox[RasterBox[CompressedData["
+1:eJy9lstOwkAUhhthQUJcuUBl5cr4GPoABvEJINGtCZoYng4Il4Z7gXAJYUHY
+QAi3GlYQPZ5/4pCm0pYC2uSDaXvmn5lzzpzpVfQl/HyiKMqrj3/CkffbWCwS
+f/TyzV387Snq4cYlc87gYbVaDbpB07SLRqMR6Pf7PiJSnOA+6h7kmBBz0+12
+Tx30v/bgk9GZOvPAa7oejUYeC306AIz1wWjM/WAw8B9ZX4L1TDHGcDj02ulX
+KpUNbt79jKHBV1b66Fcul3fCYgzEJNTr9fxmfaldKpWoUChQPp8X/8ViUWB8
+BhuLMRCPGvJqmz76QWOxWFCtVqNsNku5XE6AdqfToclkImxga7cGuT/M+uw/
+ms/ntF6vqdlsUjKZFKCNC/pynTZxyLbb7bNt/sHcMpkMzWYzoVev1wW4xuOx
+WAdsbGIAH6ncJ7BNH/6FRjqdJl3XSV7T6VSsA76CDWxt9oSKOmLOH/RBLKEP
+LVVVN/qJRGKjDxsnfSZoN3/4CPNfrVa/5n+IvtH/iDHu9/G/2T/G/JT5A41U
+KiXm3Wq1xBhcx5zy0zK+Mj+Xy6XIf5n7EuQ/9sYh+Wneqy73r+3+2rX2OPh+
+a31wqpHG5xbatvXtCDjW5wO1Z9UdzheXyPMRPrc6H49yvpvn/Y/fJ3/6ffUN
+AyH/6w==
+         "], {{0, 26}, {24, 0}}, {0, 255},
+         ColorFunction->RGBColor],
+        BaseStyle->"ImageGraphics",
+        ImageSize->Magnification[1],
+        ImageSizeRaw->{24, 26},
+        PlotRange->{{0, 24}, {0, 26}}]}
+     },
+     AutoDelete->False,
+     GridBoxItemSize->{"Columns" -> {Automatic, 
+         Scaled[0.6], Automatic}},
+     GridBoxSpacings->{"Columns" -> {{0}}, "Rows" -> {{0}}}],
+    "Grid"], 
+   PaneBox[
+    StyleBox[
+     RowBox[{
+     "Background", " ", "images", " ", "and", " ", "text", " ", "colors", " ",
+       "have", " ", "been", " ", "adjusted", " ", "for", " ", "editing", " ", 
+      RowBox[{"purposes", "."}]}],
+     LineBreakWithin->False,
+     FontFamily->"Helvetica",
+     FontSize->12,
+     FontColor->GrayLevel[0.4]],
+    Alignment->Center,
+    ImageSize->Scaled[0.5],
+    ScrollPosition->{0., 0.}]},
+   Alignment->{Center, Center}], 2->""}, "1"]], "SlideShowNavigationBar", \
+"FirstSlide",
+ CellMargins->{{0, 0}, {0, 0}},
+ CellFrameLabelMargins->2,
+ CellSize->{Inherited, 30},
+ TextAlignment->Center,
+ CellTags->"SlideShowHeader"],
+
+Cell[TextData[{
+ StyleBox["       \
+\:041b\:0410\:0411\:041e\:0420\:0410\:0422\:041e\:0420\:041d\:0410\:042f \
+\:0420\:0410\:0411\:041e\:0422\:0410 \:2116 2.\n\n1. \:0421 \
+\:043f\:043e\:043c\:043e\:0449\:044c\:044e \:0438\:043d\:0442\:0435\:0440\
+\:043f\:043e\:043b\:044f\:0446\:0438\:043e\:043d\:043d\:043e\:0433\:043e \
+\:043f\:043e\:043b\:0438\:043d\:043e\:043c\:0430 \:041b\:0430\:0433\:0440\
+\:0430\:043d\:0436\:0430, \:0432\:044b\:0447\:0438\:0441\:043b\:0438\:0442\
+\:044c \:043f\:0440\:043e\:0438\:0437\:0432\:043e\:0434\:043d\:0443\:044e \
+\:0444\:0443\:043d\:043a\:0446\:0438\:0438. \:0421\:0440\:0430\:0432\:043d\
+\:0438\:0442\:044c \:0441 \:0440\:0435\:0437\:0443\:043b\:044c\:0442\:0430\
+\:0442\:043e\:043c \:0432\:044b\:0447\:0438\:0441\:043b\:0435\:043d\:0438\
+\:044f \:0441 \:043f\:043e\:043c\:043e\:0449\:044c\:044e \:0432\:0441\:0442\
+\:0440\:043e\:0435\:043d\:043d\:043e\:0439 \:0444\:0443\:043d\:043a\:0446\
+\:0438\:0438 ",
+  FontFamily->"Times New Roman"],
+ "InterpolatingPolynomial ",
+ StyleBox["\:0438 \:0442\:0430\:043a\:0436\:0435 \:0441 \:043f\:043e\:043c\
+\:043e\:0449\:044c\:044e \:0432\:0441\:0442\:0440\:043e\:0435\:043d\:043d\
+\:043e\:0439 \:0444\:0443\:043d\:043a\:0446\:0438\:0438 ",
+  FontFamily->"Times New Roman"],
+ "D. ",
+ StyleBox["\:0414\:043e\:043b\:0436\:043d\:044b \:0431\:044b\:0442\:044c \
+\:0441\:043e\:0431\:0441\:0442\:0432\:0435\:043d\:043d\:044b\:0435 \:0444\
+\:0443\:043d\:043a\:0446\:0438\:0438:\n\:0430) \:041f\:043e\:0441\:0442\:0440\
+\:043e\:0435\:043d\:0438\:044f \:0438\:043d\:0442\:0435\:0440\:043f\:043e\
+\:043b\:044f\:0446\:0438\:043e\:043d\:043d\:043e\:0433\:043e \:043f\:043e\
+\:043b\:0438\:043d\:043e\:043c\:0430 \:041b\:0430\:0433\:0440\:0430\:043d\
+\:0436\:0430,\n\:0431) \:0412\:044b\:0447\:0438\:0441\:043b\:0435\:043d\:0438\
+\:044f \:043f\:0440\:043e\:0438\:0437\:0432\:043e\:0434\:043d\:043e\:0439 \
+\:0441 \:0438\:0441\:043f\:043e\:043b\:044c\:0437\:043e\:0432\:0430\:043d\
+\:0438\:0435\:043c \:044d\:0442\:043e\:0439 \:0444\:0443\:043d\:043a\:0446\
+\:0438\:0438 \:0438\:0437 \:043f. \:0430).\n2. \:041f\:043e\:0441\:0442\:0440\
+\:043e\:0438\:0442\:044c \:0441\:043e\:0431\:0441\:0442\:0432\:0435\:043d\
+\:043d\:0443\:044e \:0444\:0443\:043d\:043a\:0446\:0438\:044e \:0430\:043f\
+\:043f\:0440\:043e\:043a\:0441\:0438\:043c\:0430\:0446\:0438\:0438 \:041f\
+\:0430\:0434\:0435 c \:0442\:0435\:043c\:0438 \:0436\:0435 \:043f\:0430\:0440\
+\:0430\:043c\:0435\:0442\:0440\:0430\:043c\:0438, \:043a\:0430\:043a \:0438 \
+\:0432\:0441\:0442\:0440\:043e\:0435\:043d\:043d\:0443\:044e ",
+  FontFamily->"Times New Roman"],
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"PadeApproximant", "[", 
+    RowBox[{"f", ",", 
+     RowBox[{"{", 
+      RowBox[{"x", ",", 
+       SubscriptBox["x", "0"], ",", " ", 
+       RowBox[{"{", 
+        RowBox[{"L", ",", "M"}], "}"}]}], "}"}]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",
+  FontWeight->"Bold"],
+ StyleBox["].",
+  FontFamily->"Times New Roman",
+  FontWeight->"Bold"],
+ StyleBox["  \:0421\:0440\:0430\:0432\:043d\:0438\:0442\:044c \:0433\:0440\
+\:0430\:0444\:0438\:0447\:0435\:0441\:043a\:0438 \:0438\:0441\:0445\:043e\
+\:0434\:043d\:0443\:044e \:0444\:0443\:043d\:043a\:0446\:0438\:044e \:0438 \
+\:043f\:043e\:043b\:0443\:0447\:0435\:043d\:043d\:0443\:044e \:0430\:043f\
+\:043f\:0440\:043e\:043a\:0441\:0438\:043c\:0430\:0446\:0438\:044e \:041f\
+\:0430\:0434\:0435.",
+  FontFamily->"Times New Roman"]
+}], "Title",
+ CellChangeTimes->{
+  3.559948400406288*^9, {3.602655469625*^9, 3.60265550025*^9}, {
+   3.60275174096875*^9, 3.602751812*^9}, {3.6042145432155848`*^9, 
+   3.6042146373669696`*^9}, {3.621768752542364*^9, 3.621768776875928*^9}, {
+   3.6550103858026466`*^9, 3.655010531258966*^9}, {3.655017982824171*^9, 
+   3.655018230632345*^9}, {3.6550182649373074`*^9, 3.655018333732242*^9}, {
+   3.655018524405148*^9, 3.655018525831229*^9}, {3.6550241669338818`*^9, 
+   3.65502423525479*^9}, {3.655024305296796*^9, 3.6550243335484123`*^9}, {
+   3.655025585198002*^9, 3.65502558568503*^9}}],
+
+Cell[TextData[{
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"1.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       RowBox[{"ln", "(", "x", ")"}], "+", 
+       RowBox[{"sin", "(", 
+        RowBox[{"2", "x"}], ")"}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "1.3"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "1.4"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "1.5"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"1.6", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "1.45", ")"}], "."}]}]}]}], TraditionalForm]]],
+ " \n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"2.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       RowBox[{"cos", "(", "x", ")"}], "+", 
+       RowBox[{
+        SubsuperscriptBox["\[Integral]", "0", "x"], 
+        RowBox[{
+         RowBox[{"cos", "(", 
+          RowBox[{"sin", "(", "t", ")"}], ")"}], 
+         RowBox[{"\[DifferentialD]", "t"}]}]}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "2.3"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "2.5"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "2.7"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"2.9", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", 
+        FractionBox[
+         RowBox[{"2", "\[Pi]"}], "3"], ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"3.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       SuperscriptBox["2", "x"], "+", 
+       RowBox[{"cos", "(", "x", ")"}], "+", 
+       RowBox[{"sin", "(", 
+        RowBox[{"2", "x"}], ")"}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "3.4"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "3.6"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "3.8"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"3.10", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "3.9", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"4.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       RowBox[{"ln", "(", "x", ")"}], "+", 
+       RowBox[{
+        SubsuperscriptBox["\[Integral]", "0", "x"], 
+        RowBox[{
+         FractionBox[
+          RowBox[{"sin", "(", "t", ")"}], 
+          SqrtBox[
+           RowBox[{"1", "+", 
+            SuperscriptBox["t", "2"]}]]], 
+         RowBox[{"\[DifferentialD]", "t"}]}]}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "4.5"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "4.8"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "5.1"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"5.4", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "5.2", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"5.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       RowBox[{"ln", "(", 
+        RowBox[{"1", "+", 
+         SqrtBox["x"]}], ")"}], "+", 
+       SuperscriptBox["\[ExponentialE]", 
+        RowBox[{"cos", "(", "x", ")"}]]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "5.6"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "5.7"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "5.8"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"5.9", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "5.85", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"6.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       SuperscriptBox["5", "x"], "+", 
+       RowBox[{
+        SubsuperscriptBox["\[Integral]", "0", "x"], 
+        RowBox[{
+         FractionBox[
+          RowBox[{"cos", "(", "t", ")"}], 
+          RowBox[{"1", "+", 
+           SuperscriptBox["t", "2"]}]], 
+         RowBox[{"\[DifferentialD]", "t"}]}]}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "1.1"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "1.4"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "1.7"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{"2.", " ", 
+      StyleBox["\:041d\:0430\:0439\:0442\:0438",
+       FontFamily->"Times New Roman"], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "1.5", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"7.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       SuperscriptBox["6", 
+        SuperscriptBox["x", "2"]], "+", 
+       RowBox[{"cos", "(", 
+        RowBox[{
+         RowBox[{"2", "x"}], "+", "5"}], ")"}], "+", 
+       RowBox[{"sin", "(", 
+        RowBox[{"2", "x"}], ")"}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "7.3"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "7.4"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "7.5"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"7.6", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "7.42", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"8.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       RowBox[{"cos", "(", "x", ")"}], "+", 
+       RowBox[{"ln", "(", 
+        RowBox[{
+         SuperscriptBox["x", "2"], "+", "1"}], ")"}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", 
+      RowBox[{"-", "1.3"}]}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", 
+     RowBox[{"-", "1"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", 
+     RowBox[{"-", "0.7"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"-", 
+       RowBox[{"0.4", ".", " ", 
+        StyleBox["\:041d\:0430\:0439\:0442\:0438",
+         FontFamily->"Times New Roman"]}]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{"-", "0.6"}], ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"9.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       FractionBox["1", 
+        RowBox[{
+         SuperscriptBox["x", "2"], "+", "4"}]], "+", 
+       RowBox[{
+        SubsuperscriptBox["\[Integral]", "0", "x"], 
+        RowBox[{
+         RowBox[{"sin", "(", 
+          RowBox[{"cos", "(", "t", ")"}], ")"}], 
+         RowBox[{"\[DifferentialD]", "t"}]}]}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", 
+      RowBox[{"-", "0.2"}]}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "1"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "1.2"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"1.4", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "0.1", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"10.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       RowBox[{"ln", "(", 
+        RowBox[{
+         SuperscriptBox["x", "4"], "+", "5"}], ")"}], "+", 
+       RowBox[{"cos", "(", 
+        RowBox[{"3", "x"}], ")"}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "3.3"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "3.5"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "3.7"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{
+      RowBox[{"3.9", ".", " ", 
+       StyleBox["\:041d\:0430\:0439\:0442\:0438",
+        FontFamily->"Times New Roman"]}], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "3.4", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"11.", " ", 
+       RowBox[{"f", "(", "x", ")"}]}], "=", 
+      RowBox[{
+       RowBox[{"sin", "(", 
+        RowBox[{
+         SuperscriptBox["x", "4"], "-", "6"}], ")"}], "+", 
+       RowBox[{"cos", "(", 
+        RowBox[{
+         SuperscriptBox["x", "4"], "+", "6"}], ")"}]}]}], ";", 
+     RowBox[{
+      SubscriptBox["x", "0"], "=", "2.1"}]}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "1"], "=", "2.2"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "2"], "=", "2.8"}], ",", " ", 
+    RowBox[{
+     SubscriptBox["x", "3"], "=", 
+     RowBox[{"3.", " ", 
+      StyleBox["\:041d\:0430\:0439\:0442\:0438",
+       FontFamily->"Times New Roman"], " ", 
+      RowBox[{"f", "''"}], 
+      RowBox[{
+       RowBox[{"(", "4", ")"}], "."}]}]}]}], TraditionalForm]]],
+ "\n\n"
+}], "Subtitle",
+ CellChangeTimes->{{3.602655506046875*^9, 3.60265571090625*^9}, {
+   3.602656091640625*^9, 3.602656187671875*^9}, {3.60265640209375*^9, 
+   3.602656402359375*^9}, {3.602656439234375*^9, 3.60265645571875*^9}, {
+   3.6026565131875*^9, 3.602656530453125*^9}, {3.602656670953125*^9, 
+   3.60265670271875*^9}, {3.602656900875*^9, 3.602656933828125*^9}, {
+   3.602656995703125*^9, 3.60265704959375*^9}, {3.6026571294375*^9, 
+   3.6026571296875*^9}, {3.60265719175*^9, 3.6026572351875*^9}, {
+   3.602657282265625*^9, 3.602657286375*^9}, {3.60265732859375*^9, 
+   3.602657330390625*^9}, {3.602657561328125*^9, 3.602657564953125*^9}, {
+   3.602657620671875*^9, 3.602657669203125*^9}, {3.602664556328125*^9, 
+   3.602664596390625*^9}, 3.602664632890625*^9, {3.6026646728125*^9, 
+   3.6026647293125*^9}, {3.60266487340625*^9, 3.602664919828125*^9}, {
+   3.602664953875*^9, 3.60266495628125*^9}, {3.6026651489375*^9, 
+   3.602665181671875*^9}, {3.602665322296875*^9, 3.6026653240625*^9}, {
+   3.602736612078125*^9, 3.60273661225*^9}, {3.602736650046875*^9, 
+   3.60273666271875*^9}, {3.602736850765625*^9, 3.6027368756875*^9}, {
+   3.602736929046875*^9, 3.602736930625*^9}, {3.6027369740625*^9, 
+   3.602737008828125*^9}, {3.602737064734375*^9, 3.602737082109375*^9}, {
+   3.602737897734375*^9, 3.602737921390625*^9}, {3.60273798784375*^9, 
+   3.602737990015625*^9}, {3.6027382343125*^9, 3.602738299921875*^9}, {
+   3.602738407640625*^9, 3.6027384181875*^9}, {3.60273929671875*^9, 
+   3.60273932628125*^9}, {3.602739371921875*^9, 3.60273937940625*^9}, {
+   3.602739643296875*^9, 3.602739685015625*^9}, {3.602739772578125*^9, 
+   3.602739777703125*^9}, {3.602739882796875*^9, 3.602739915859375*^9}, {
+   3.602740022328125*^9, 3.602740038109375*^9}, {3.6027400790625*^9, 
+   3.6027401895*^9}, {3.602740391015625*^9, 3.602740420984375*^9}, {
+   3.602740490375*^9, 3.6027404989375*^9}, {3.602740638796875*^9, 
+   3.6027406795625*^9}, {3.602740909640625*^9, 3.602740916140625*^9}, {
+   3.60274102065625*^9, 3.60274118809375*^9}, {3.60274153740625*^9, 
+   3.602741553453125*^9}, {3.602741596125*^9, 3.602741600984375*^9}, {
+   3.602743474578125*^9, 3.602743498625*^9}, {3.60274356428125*^9, 
+   3.602743569140625*^9}, {3.60274378071875*^9, 3.602743807015625*^9}, {
+   3.602743885109375*^9, 3.602743942546875*^9}, {3.60274837440625*^9, 
+   3.602748408515625*^9}, {3.602748475875*^9, 3.602748479515625*^9}, {
+   3.602749995375*^9, 3.60275001940625*^9}, {3.602750114328125*^9, 
+   3.602750154734375*^9}, {3.602750195765625*^9, 3.602750268609375*^9}, {
+   3.60275070415625*^9, 3.602750753078125*^9}, {3.602750828328125*^9, 
+   3.602750853015625*^9}, {3.60275088884375*^9, 3.602750966171875*^9}, {
+   3.60275103375*^9, 3.602751112484375*^9}, {3.602751492875*^9, 
+   3.602751492984375*^9}, {3.6041483885*^9, 3.604148518421875*^9}, {
+   3.60414855484375*^9, 3.604148609921875*^9}, {3.604148652578125*^9, 
+   3.604148782828125*^9}, {3.604148821828125*^9, 3.604148915125*^9}, {
+   3.604149012375*^9, 3.604149218984375*^9}, {3.604149252515625*^9, 
+   3.6041493065625*^9}, {3.60414937478125*^9, 3.604149474734375*^9}, {
+   3.604149536109375*^9, 3.604149620234375*^9}, {3.604149829015625*^9, 
+   3.60414987184375*^9}, {3.621736078802528*^9, 3.621736085442861*^9}, {
+   3.6217361260349903`*^9, 3.6217361444544067`*^9}, {3.655017654778408*^9, 
+   3.6550176825149946`*^9}, {3.655017713135746*^9, 3.6550177978475914`*^9}}]
+}, Open  ]]
+},
+WindowSize->{1272, 670},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+TaggingRules->{"SlideShow" -> True},
+FrontEndVersion->"10.1 for Microsoft Windows (32-bit) (March 23, 2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{
+ "SlideShowHeader"->{
+  Cell[579, 22, 4250, 94, 76, "SlideShowNavigationBar",
+   CellTags->"SlideShowHeader"]}
+ }
+*)
+(*CellTagsIndex
+CellTagsIndex->{
+ {"SlideShowHeader", 22551, 592}
+ }
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 4250, 94, 76, "SlideShowNavigationBar",
+ CellTags->"SlideShowHeader"],
+Cell[4832, 118, 3992, 70, 836, "Title"],
+Cell[8827, 190, 13372, 388, 507, "Subtitle"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
